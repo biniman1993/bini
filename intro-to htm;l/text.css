@@ -1,0 +1,24 @@
+
+        .tex{
+            font-family: Arial;
+            font-size: 20px;
+            font-style: italic;
+            font-weight: bold;
+            text-align: start;
+            width: 300px;
+            line-height: 24px;
+            margin-bottom: 7px;
+
+        }
+        .text2{
+            color: rgb(128, 125, 136);
+            margin-top: 0px;
+            margin-bottom: 2px;
+        }
+        .tec3{
+            margin-top: 0px;
+        }
+        .bb{
+            width: 300px;
+        }
+   
